@@ -7,7 +7,7 @@ public class Calculator {
 	
 	public Calculator(long first, long second){
 		this.first = first;
-		this.second=second;
+		this.second = second;
 	}
 	
 	public long getFirst() {
